@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+.heading {
+    background-color: #4f5d75;
+    color: #ffffff;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 10px;
+}
+
+.records {
+    height: 800px;
+    background-color: #bfc0c0;
+    background-image: url("record.png");
+    background-repeat: repeat;
+    padding: 1em;
+}
+
